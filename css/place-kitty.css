@@ -1,5 +1,7 @@
 /* Select the image with a class of kitty-1 */
-
+html {
+  background: url(../images/beautiful-day.jpg) no-repeat top center;
+}
 /*__write_selector_here__*/ {
   position: absolute;
   z-index: 1;
